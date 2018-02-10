@@ -1,5 +1,5 @@
-# pnt.pl
-pnt.pl
+# DOS pnt.pl
+DOS pnt.pl
 # cara menggunakan :v ea
 # $pkg install perl
 # $perl pnt.pl
